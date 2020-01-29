@@ -7,8 +7,8 @@ public class Main {
         app.setVisible(true);
 
 
-   Person kris = new Person(110,"mAx");
-    System.out.println(kris.name + kris.height);
+   Person kriss = new Person(110,"mAx");
+    System.out.println(kriss.name + kriss.height);
     Person max = new Person();
     System.out.println(max.height);
     max.say("max");
